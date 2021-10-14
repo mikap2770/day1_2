@@ -1,0 +1,18 @@
+h1 {
+    color: burlywood ;
+}
+p{
+    margin-left: 20px;
+}
+
+.capital{
+color:rgb(26, 39, 112);
+}
+
+#cities{
+    background-color: rgb(156, 153, 153);
+    border-style: double;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+}
